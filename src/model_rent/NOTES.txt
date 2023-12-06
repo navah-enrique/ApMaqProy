@@ -1,0 +1,1 @@
+1. Creo que debería hacer el rescalamiento de precio por venta/renta para que el "for-sale" salga significativo y pueda ser usado en el modelo.
